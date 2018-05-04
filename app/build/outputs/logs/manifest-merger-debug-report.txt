@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:3:11-52
+		INJECTED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:7:5-9:50
+	android:targetSdkVersion
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml
+application
+ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:10:5-23:19
+	android:label
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:12:9-38
+activity#com.camera.simpledoublewebcams2.Main
+ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:17:13-50
+	android:label
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:15:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /Volumes/hsyuanSD/github/android_double_camera/app/src/main/AndroidManifest.xml:20:27-74
